@@ -50,14 +50,6 @@ Make sure Python and Jupyter Notebook are installed:
 pip install notebook
 jupyter notebook
 ```
-
----
-
-## 📸 Screenshots
-
-![Notebook Preview](https://cdn.corenexis.com/view/?img=d/ap7/xdZ00B.png)
-![Dashboard Preview](https://cdn.corenexis.com/view/?img=d/ap7/xdZ00B.png)
-
 ---
 
 ## ✨ Features
