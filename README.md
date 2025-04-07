@@ -36,12 +36,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 🖼️ Logo
-
-![Logo](https://www.flaticon.com/free-icon/stress_9418716?term=stress&page=1&position=20&origin=search&related_id=9418716)
-
----
-
 ## ▶️ Run Locally
 
 Make sure Python and Jupyter Notebook are installed:
