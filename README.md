@@ -1,84 +1,146 @@
 # 🚀 Stress Prediction
 
-🔍 This project focuses on analyzing and predicting **stress levels** using machine learning techniques. It includes data preprocessing, model training, and visualization to gain insights into stress-inducing factors.
-
-## 🗂 Project Structure
-
-- 📓 **`ML_Project.ipynb`**: Jupyter Notebook with preprocessing, EDA, feature engineering, model training, and evaluation.
-- 📊 **`Stress Prediction.xls`**: Dataset used for training and evaluation.
-- 📈 **`Dashboard.pbix`**: Power BI dashboard with key visualizations and predictions.
-
-## ⚙️ Getting Started
-
-To explore and run the project:
-
-1. **📥 Clone the repository**:
-
-   ```bash
-   git clone https://github.com/Sapna-Singh10/Stress-Prediction.git
-   ```
-
-2. **📂 Navigate to the project directory**:
-
-   ```bash
-   cd Stress-Prediction
-   ```
-
-3. **📗 Open the Jupyter Notebook**:
-
-   - Make sure Jupyter Notebook is installed. If not:
-
-     ```bash
-     pip install notebook
-     ```
-
-   - Launch the notebook:
-
-     ```bash
-     jupyter notebook
-     ```
-
-   - Open `ML_Project.ipynb` and start exploring.
-
-4. **📊 View the Power BI Dashboard**:
-
-   - Open `Dashboard.pbix` using Power BI Desktop.
-
-## 📦 Dependencies
-
-The following Python libraries are required:
-
-- `pandas`
-- `numpy`
-- `scikit-learn`
-- `matplotlib`
-- `seaborn`
-
-Install them with:
-
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
-```
-
-## 🧠 Usage
-
-### 📉 Data Analysis and Model Training
-
-The notebook guides you through loading the dataset, conducting EDA, preprocessing data, and training ML models for stress prediction.
-
-### 📊 Visualization
-
-Interactive visualizations in Power BI help understand stress factors and model outputs.
-
-## 🤝 Contributing
-
-Contributions are welcome! Fork the repository, make changes, and submit a pull request 🔁
-
-## 📄 License
-
-Licensed under the **MIT License**. See the LICENSE file for more details.
+🔍 A machine learning project to analyze and predict stress levels using data preprocessing, modeling, and interactive dashboards.
 
 ---
 
-> ⚠️ **Note**: Ensure the dataset file `Stress Prediction.xls` is in the project directory before running the notebook.
+## 🛠️ Installation
+
+To install and run the project locally:
+
+```bash
+git clone https://github.com/Sapna-Singh10/Stress-Prediction.git
+cd Stress-Prediction
+pip install -r requirements.txt
+```
+
+---
+
+## 💻 Usage / Examples
+
+1. Open the Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+2. Open `ML_Project.ipynb` to run the analysis and model training steps.
+
+3. To view the dashboard, open `Dashboard.pbix` in Power BI Desktop.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 🖼️ Logo
+
+![Logo](https://www.flaticon.com/free-icon/stress_9418716?term=stress&page=1&position=20&origin=search&related_id=9418716)
+
+---
+
+## ▶️ Run Locally
+
+Make sure Python and Jupyter Notebook are installed:
+
+```bash
+pip install notebook
+jupyter notebook
+```
+
+---
+
+## 📸 Screenshots
+
+![Notebook Preview](https://cdn.corenexis.com/view/?img=d/ap7/xdZ00B.png)
+![Dashboard Preview](https://cdn.corenexis.com/view/?img=d/ap7/xdZ00B.png)
+
+---
+
+## ✨ Features
+
+- 🧠 Machine Learning based prediction
+- 📊 Power BI Dashboard
+- 🔍 Exploratory Data Analysis (EDA)
+- 🧹 Data Cleaning and Preprocessing
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, open an issue first to discuss your ideas.
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+   
+---
+
+## 🏅 Badges
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Sapna-Singh10/Stress-Prediction)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sapna-Singh10/Stress-Prediction)
+
+---
+---
+
+## ✍️ Authors
+
+- [@Sapna-Singh10](https://github.com/Sapna-Singh10)
+
+---
+
+## 🙌 Acknowledgements
+
+- Scikit-learn Documentation
+- Power BI Community
+- Collect data through Google forms
+
+---
+
+## 📬 Support
+
+For support, contact [sapnasingh101045@gmail.com](mailto:sapnasingh101045@gmail.com)
+
+---
+
+## 💬 Feedback
+
+If you have feedback, please reach out via GitHub issues.
+
+---
+
+## 🔗 Related
+
+- [Pandas Documentation](https://pandas.pydata.org/)
+- [Seaborn Docs](https://seaborn.pydata.org/)
+
+---
+
+## 🧰 Tech Stack
+
+- Python
+- Jupyter Notebook
+- Power BI
+- Scikit-learn
+- Pandas, Seaborn, Matplotlib
+
+---
+
+## 📘 Lessons Learned
+
+- Hands-on experience with data cleaning
+- Integration of ML with visualization tools
+- Importance of data quality in predictions
+
+---
+## 📚 Documentation
+
+All code is well-commented inside the Jupyter Notebook.
+
 
